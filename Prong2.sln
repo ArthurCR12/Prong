@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prong2", "Prong2.csproj", "{B86F68C3-0C77-46D6-B925-55BC1E41DEC2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B86F68C3-0C77-46D6-B925-55BC1E41DEC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B86F68C3-0C77-46D6-B925-55BC1E41DEC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B86F68C3-0C77-46D6-B925-55BC1E41DEC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B86F68C3-0C77-46D6-B925-55BC1E41DEC2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EBEB79D6-E441-40E2-9E77-2C0EFCCD6B75}
+	EndGlobalSection
+EndGlobal
